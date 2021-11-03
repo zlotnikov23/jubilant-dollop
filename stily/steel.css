@@ -11,7 +11,6 @@ header.menu_block__container-blok {
   width: 100%;
   max-width: 1440px;
   margin: auto;
-  /* min-width: 320px; */
 }
 .menu_block__navigation-box {
   width: 100%;
@@ -68,12 +67,10 @@ header.menu_block__container-blok {
   font-family: "Roboto" !important;
   color: #8d867c;
 }
-.menu_block__frame-en:hover {
+.menu_block__frame-en .menu_block__frame-de:hover {
   color: #080707db;
 }
-.menu_block__frame-de:hover {
-  color: #080707db;
-}
+
 .menu_block__button {
   width: 176px;
   height: 40px;
@@ -1267,7 +1264,7 @@ header.menu_block__container-blok {
     line-height: 23px;
   }
   .product_descriptions-link {
-    font-size: 25px;
+    font-size: 18px;
     line-height: 44px;
   }
   .conclusion_descriptions__blok {
