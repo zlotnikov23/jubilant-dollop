@@ -67,8 +67,10 @@ header.menu_block__container-blok {
   font-family: "Roboto" !important;
   color: #8d867c;
 }
-.menu_block__frame-en .menu_block__frame-de:hover {
+.menu_block__frame-en:hover,
+.menu_block__frame-de:hover {
   color: #080707db;
+  cursor: pointer;
 }
 
 .menu_block__button {
