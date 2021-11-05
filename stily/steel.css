@@ -1171,6 +1171,7 @@ header.menu_block__container-blok {
 
   .menu_block__title-subject {
     font-size: 32px;
+    letter-spacing: normal;
   }
   .menu__block__titles-subject {
     font-size: 14px;
@@ -1201,6 +1202,7 @@ header.menu_block__container-blok {
     text-align: center;
     font-size: 26px;
     line-height: 30px;
+    letter-spacing: normal;
   }
   .product_descriptions__elements {
     margin: auto;
@@ -1241,6 +1243,7 @@ header.menu_block__container-blok {
     font-size: 23px;
     line-height: 30px;
     margin-top: 30px;
+    letter-spacing: normal;
   }
   .product_descriptions__str-elements {
     width: 100%;
@@ -1288,6 +1291,7 @@ header.menu_block__container-blok {
   .product_descriptions__title-title {
     font-size: 26px;
     line-height: 32px;
+    letter-spacing: normal;
   }
   .product_descriptions__title-string {
     font-size: 16px;
